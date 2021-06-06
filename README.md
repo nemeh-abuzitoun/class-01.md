@@ -49,7 +49,7 @@ If you ask a client who a site is for, it is not uncommon for them to answer “
 
 Realistically, it is unlikely to be relevant to everyone. If your site sells light bulbs, even though most people using a computer probably use light bulbs, they are ..
   
-      * [  Process & Design](https://www.oreilly.com/library/view/html-css/9781118206911/24_chapter-18.html)
+      * [Process & Design](https://www.oreilly.com/library/view/html-css/9781118206911/24_chapter-18.html)
 
   
   
