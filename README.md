@@ -23,6 +23,7 @@ Example
   * [ Extra Markup](http://www.htmlandcssbook.com/code-samples/chapter-08/)
   
   HTML Layout Elements
+  
 HTML has several semantic elements that define the different parts of a web page:
 
 HTML5 Semantic Elements	
@@ -34,20 +35,17 @@ HTML5 Semantic Elements
 <footer> - Defines a footer for a document or a section
 <details> - Defines additional details that the user can open and close on demand
 <summary> - Defines a heading for the <details> element
-You can read more about semantic elements in our HTML Semantics chapter.
     * [ HTML Layout Elements](https://www.w3schools.com/html/html_layout.asp)
   
   
   Process & Design
   
-  WHO IS THE SITE FOR?
 Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 
 It can be helpful to ask some questions about the people you would expect to be interested in the subject of your site.
 
 If you ask a client who a site is for, it is not uncommon for them to answer “the entire world.”
 
-Realistically, it is unlikely to be relevant to everyone. If your site sells light bulbs, even though most people using a computer probably use light bulbs, they are ..
   
       * [Process & Design](https://www.oreilly.com/library/view/html-css/9781118206911/24_chapter-18.html)
 
